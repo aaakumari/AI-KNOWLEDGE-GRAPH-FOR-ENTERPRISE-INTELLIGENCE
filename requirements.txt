@@ -1,0 +1,7 @@
+streamlit
+neo4j
+pandas
+sentence-transformers
+faiss-cpu
+openai
+python-dotenv
